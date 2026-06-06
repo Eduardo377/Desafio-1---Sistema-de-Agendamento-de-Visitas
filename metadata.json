@@ -1,0 +1,6 @@
+{
+  "name": "Agendamento de Visitas - Wilson Sons",
+  "description": "MVP de Sistema de Agendamento de Visitas para a Wilson Sons com formulário de cadastro, instruções de segurança e termos de EPI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
