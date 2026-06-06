@@ -17,7 +17,7 @@ export default function SchedulesList({ schedules, onDelete }: SchedulesListProp
     <div id="schedules-list-container" className="bg-slate-50 rounded-2xl border border-slate-100 p-6">
       <div className="flex items-center justify-between mb-5">
         <div>
-          <h3 className="font-bold text-slate-900 text-base">Registros Salvos (MVP Local)</h3>
+          <h3 className="font-bold text-slate-900 text-base">Registros Salvos</h3>
           <p className="text-xs text-slate-500">Agendamentos armazenados em sandbox de testes</p>
         </div>
         <span className="text-xs font-semibold px-2.5 py-1 bg-slate-200/60 text-slate-700 rounded-full">
